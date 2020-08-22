@@ -85,7 +85,7 @@ main {
     padding: 20px;
 }
 .jumbotron {
-    background-image: url(asets/gambar/pulau.png);
+    background-image: url(pulau.png);
     background-size: cover;
     padding: 280px 0px 100px 0px;
     text-align: center;
@@ -200,7 +200,7 @@ figure img {
 .message {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     font-weight: bold;
-    background-image: url(asets/gambar/pesan.png);
+    background-image: url(pesan.png);
     padding:10px 0px 20px 0px;
 }
 
